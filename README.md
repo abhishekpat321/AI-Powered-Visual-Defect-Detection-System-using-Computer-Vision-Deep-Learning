@@ -2,12 +2,15 @@
 
 The Human-Assisted Cognitive Defect Inspector (HCDI) is an AI-powered visual inspection system that automates defect detection in industrial products using Computer Vision and Convolutional Neural Networks (CNNs). The system classifies images as Defect or No Defect, estimates defect severity, and generates human-readable inspection remarks to support quality control processes. By combining image preprocessing, deep learning, and severity analysis, the project reduces manual inspection effort while improving consistency and decision-making.
 
+
 🎯 Project Objectives
 Develop a CNN-based image classification model for defect detection.
 Automate visual quality inspection using AI.
 Estimate defect severity quantitatively.
 Generate AI-powered inspection remarks.
 Improve manufacturing quality control through intelligent automation.
+
+
 🚀 Features
 CNN-based Defect Detection
 Binary Image Classification (Defect / No Defect)
@@ -18,6 +21,8 @@ Confidence Score Prediction
 AI Inspection Remarks
 Automated Quality Inspection
 Industrial AI Workflow
+
+
 🛠️ Technologies Used
 Python
 TensorFlow
@@ -36,6 +41,8 @@ Predict defect presence with confidence scores.
 Calculate defect severity using pixel intensity analysis.
 Generate AI-based inspection remarks.
 Display inspection status, confidence, and severity metrics.
+
+
 📊 Model Architecture
 Image Preprocessing
 Convolutional Neural Network (CNN)
@@ -45,6 +52,8 @@ Adam Optimizer
 Binary Cross-Entropy Loss
 Severity Estimation Engine
 AI Remark Generation
+
+
 💡 Key Learning Outcomes
 Computer Vision
 Deep Learning
@@ -56,6 +65,8 @@ OpenCV Image Processing
 Quality Inspection Automation
 Model Training & Evaluation
 AI-Based Decision Support
+
+
 🌍 Applications
 Manufacturing Quality Control
 Industrial Inspection Systems
@@ -63,6 +74,8 @@ Automotive Component Inspection
 Electronics PCB Inspection
 Factory Automation
 Smart Manufacturing (Industry 4.0)
+
+
 📈 Future Enhancements
 Real industrial defect datasets
 Multi-class defect classification
@@ -71,6 +84,8 @@ Streamlit web dashboard
 Real-time camera inspection
 Edge AI deployment
 IoT-enabled smart inspection systems
+
+
 🔑 Key Skills
 Python
 Artificial Intelligence (AI)
