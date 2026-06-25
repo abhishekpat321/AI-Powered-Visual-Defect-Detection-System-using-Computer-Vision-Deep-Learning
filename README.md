@@ -1,0 +1,2 @@
+# AI-Powered-Visual-Defect-Detection-System-using-Computer-Vision-Deep-Learning
+Developed an AI-powered visual inspection system using TensorFlow, Keras, and OpenCV to detect surface defects through Convolutional Neural Networks (CNNs). The system performs binary defect classification, estimates defect severity, and generates AI-based inspection remarks, enabling automated quality control for industrial applications.
